@@ -84,7 +84,7 @@ a.downloadButton:hover {
 }
 
 .h5link {
-    padding-top: 110px;
+    padding-top: 40px;
     margin-bottom: -70px;
 }
 
@@ -142,10 +142,10 @@ a.downloadButton:hover {
     display: block;
     text-align: center;
     margin: 0 auto;
-    margin-top: -70px;
+    margin-top: 30px;
 }
 .h5link .h5-btn .site1 {
-    margin-top: 3.1rem;
+    margin-top: 0.6rem;
 }
 .h5link .h5-btn .site1, .h5link .h5-btn .site2, .h5link .h5-btn .site3 {
     width: 100%;
@@ -169,12 +169,12 @@ a.downloadButton:hover {
 .h5link .h5-btn .site1 .enter, .h5link .h5-btn .site3 .enter {
     width: 20%;
     float: right;
-    aspect-ratio: 170/65;
+    aspect-ratio: 230/121;
 }
 .h5link .h5-btn .site2 .enter {
     width: 20%;
     float: right;
-    aspect-ratio: 170/63;
+    aspect-ratio: 230/105;
 }
 
 /* .h5link .h5-btn a:nth-child(2) img {
@@ -383,7 +383,7 @@ a.downloadButton:hover {
         right: 13%;
     }
     .h5link .h5-btn .site1 {
-        margin-top: 2.7rem;
+        margin-top: 0.6rem;
     }
 }
 
