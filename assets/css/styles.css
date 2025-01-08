@@ -160,9 +160,9 @@ a.downloadButton:hover {
     float: left;
     width: 100%;
     aspect-ratio: 74/9;
-    margin-left: 58px;
+    margin-left: 100px;
     font-size: 0.8rem;
-    margin-top: 1px;
+    margin-top: 4px;
 }
 
 
