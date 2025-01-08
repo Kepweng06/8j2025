@@ -322,12 +322,13 @@ a.downloadButton:hover {
 
 #modal-container #modal-content #close-button img {
     position: absolute;
-    top: 30%;
+    top: 38%;
     right: 14%;
 }
 
 #modal-container #modal-content .modal-img {
     animation: slideDown 0.5s ease-in-out;
+    width: 70%;
 }
 
 @keyframes slideDown {
@@ -379,7 +380,7 @@ a.downloadButton:hover {
         top: 10%;
     }
     #modal-container #modal-content #close-button img {
-        top: 36%;
+        top: 41%;
         right: 13%;
     }
     .h5link .h5-btn .site1 {
